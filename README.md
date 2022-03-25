@@ -2,7 +2,7 @@
  An ongoing curated list of frameworks and libraries, articles and books , talksand screencasts, recordings, blogs and github link repositories, learning tutorials and resources about Developer Experience. 
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Table of Contents
+## `Table of Contents`
 
 - [:pencil: Articles](#articles)
 - [:mega: Events](#events)
@@ -11,7 +11,7 @@
 - [:mag_right: Research](#research)
 - [:movie_camera: Videos](#videos)
 
-## Articles
+## `Articles`
 
 | Title                                                                                                                                                         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                | Author            | Date       | Target                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ---------- | ------------------------------------ |
